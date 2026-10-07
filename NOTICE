@@ -1,0 +1,21 @@
+Neutrino Longitudinal Momentum Reconstruction
+Copyright (C) 2026 cxclrfx
+
+Original source code, scripts, tests, documentation, and original figure content
+are licensed under the GNU Affero General Public License, version 3 or (at your
+option) any later version (AGPL-3.0-or-later). See LICENSE for the full version 3
+text. This express grant supplies the "or later" choice. No warranty is provided.
+Alternative commercial terms may be agreed separately; see COMMERCIAL-LICENSE.md.
+
+Third-party data and source-record metadata are excluded from this grant:
+Thomas McCauley, W to muon and neutrino 2011, CERN Open Data Portal, record 5205
+(2019), data recorded by CMS in 2011; CC0-1.0.
+https://opendata.cern.ch/record/5205
+The underlying data used in generated figures retain their CC0 status.
+Neither CMS nor CERN endorses this repository. No affiliation is claimed.
+
+Dependencies are not vendored and retain their upstream licenses. See
+DEPENDENCIES.md. Matplotlib-rendered PDF figures embed DejaVu font subsets;
+see figures/FONT-LICENSE.txt for the upstream font notices.
+Mass input: Particle Data Group, 2026 Review of Particle Physics,
+Mass and Width of the W Boson. The numerical mass is an external input.

@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools==80.9.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "neutrino-longitudinal-momentum-reconstruction"
+version = "0.1.0"
+description = "Fixed-W-mass longitudinal neutrino reconstruction with CMS Open Data"
+requires-python = ">=3.11"
+license = "AGPL-3.0-or-later"
+authors = [{name = "cxclrfx"}]
+dependencies = []
+
+[project.optional-dependencies]
+figures = ["matplotlib==3.10.7"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

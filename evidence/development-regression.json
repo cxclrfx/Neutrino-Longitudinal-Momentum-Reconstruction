@@ -1,0 +1,13 @@
+{
+  "status": "INITIAL_FAIL_PRESERVED",
+  "check": "separate Decimal root comparison",
+  "mass_gev": 80.3625,
+  "run": "166512",
+  "event": "623170276",
+  "eta": "-0.0000",
+  "reported_plus_gev": -103.96544018325363,
+  "expected_plus_gev": "103.96544018325363148788125626800373694597703871605",
+  "root_cause": "copysign treated negative zero as negative while branch labeling used b >= 0; labels were reversed",
+  "repair": "use the same b >= 0 predicate for stable-root evaluation and branch labeling",
+  "scope": "Pre-commit development failure; original test suite had passed 20 tests. The dataset recheck is regression evidence, not a fresh holdout."
+}

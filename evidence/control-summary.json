@@ -1,0 +1,26 @@
+{
+  "counts": {
+    "NO_REAL": 11709,
+    "TANGENT": 0,
+    "TWO_REAL": 88291
+  },
+  "events": 100000,
+  "events_sha256": "90c430c06ebb51475fc456febd18df24db4dd15bddfe7974950098887b63252a",
+  "identity_scaled_limit": 1e-12,
+  "input": {
+    "adler32": "0607d5ee",
+    "bytes": 7969331,
+    "events": 100000,
+    "filename": "Wmunu.csv",
+    "sha256": "8031d7f62935b75e02f066caf8d20e7661f98effe18dcc25b63c604bd158b04d"
+  },
+  "mass_shell_scaled_limit": 1e-10,
+  "max_identity_scaled_error": 9.121815602034461e-16,
+  "max_mass_shell_abs_error_gev2": 1.2460077414289117e-10,
+  "max_mass_shell_scaled_error": 7.034902460435139e-16,
+  "mt_max_gev": 1414.1433542644704,
+  "mt_min_gev": 0.10652447434905044,
+  "muon_mass_gev": 0.1056583755,
+  "parent_mass_gev": 80.4,
+  "validation": "PASS"
+}

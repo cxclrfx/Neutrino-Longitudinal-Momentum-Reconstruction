@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "Please cite this repository and the CERN Open Data source when using this work."
+title: "Neutrino Longitudinal Momentum Reconstruction"
+type: software
+authors:
+  - name: cxclrfx
+    website: "https://github.com/cxclrfx"
+repository-code: "https://github.com/cxclrfx/Neutrino-Longitudinal-Momentum-Reconstruction"
+url: "https://github.com/cxclrfx/Neutrino-Longitudinal-Momentum-Reconstruction"
+abstract: "Longitudinal neutrino momentum reconstruction in W to muon-neutrino decays using a fixed W-mass constraint and CMS Open Data, with quadratic branch classification and the transverse-mass boundary."
+license: AGPL-3.0-or-later
+keywords:
+  - neutrino reconstruction
+  - W boson
+  - CMS Open Data
+  - transverse mass
+  - high energy physics
+references:
+  - type: data
+    title: "W to muon and neutrino 2011"
+    authors:
+      - family-names: McCauley
+        given-names: Thomas
+    year: 2019
+    url: "https://opendata.cern.ch/record/5205"
+  - type: report
+    title: "Mass and Width of the W Boson"
+    authors:
+      - name: Particle Data Group
+    year: 2026
+    url: "https://pdg.lbl.gov/2026/reviews/rpp2026-rev-w-mass.pdf"

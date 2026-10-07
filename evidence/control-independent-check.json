@@ -1,0 +1,13 @@
+{
+  "counts": {
+    "NO_REAL": 11709,
+    "TWO_REAL": 88291
+  },
+  "decimal_precision": 50,
+  "events": 100000,
+  "events_sha256": "90c430c06ebb51475fc456febd18df24db4dd15bddfe7974950098887b63252a",
+  "limitation": "cos and sinh evaluated in binary64; separate algebra, same source data",
+  "max_relative_root_error": "3.6471511030084352766025188558822018079269214672309E-13",
+  "parent_mass_gev": 80.4,
+  "status": "PASS"
+}
